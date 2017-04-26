@@ -1,3 +1,9 @@
+nspr (2:4.13.1-0ubuntu0.16.04.1) xenial-security; urgency=medium
+
+  * Update to 4.13.1 to support nss security update.
+
+ -- Marc Deslauriers <marc.deslauriers@ubuntu.com>  Wed, 26 Apr 2017 08:14:23 -0400
+
 nspr (2:4.12-0ubuntu0.16.04.1) xenial-security; urgency=medium
 
   * SECURITY UPDATE: memory allocation bug related to the PR_*printf
